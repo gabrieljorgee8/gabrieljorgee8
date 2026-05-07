@@ -73,3 +73,32 @@
   <i>✨ "A tecnologia move o mundo." ✨</i>
 </div>
           
+---
+
+## 💼 Projetos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗳️ Sistema de Votos Eleitoral</h3>
+      <p>Sistema de votação eleitoral desenvolvido para a faculdade, com cadastro de candidatos, eleitores e apuração de resultados.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      </p>
+      <a href="https://github.com/zusflee/ES-PI1-2026-T2-G03">
+        <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🩺 Classificador de Pressão Fictício</h3>
+      <p>Sistema classificador de pressão arterial fictícia desenvolvido para a faculdade, utilizando lógica de classificação em Python.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      </p>
+      <a href="https://github.com/gbnvaes/Atividade_Avaliativa1_SEUC-4">
+        <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
