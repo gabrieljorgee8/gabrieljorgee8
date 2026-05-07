@@ -9,9 +9,9 @@
 - 🎓 Cursando **Engenharia de Software**
 - 🐍 Trabalho atualmente com **Python e Banco de dados MySQL**
 - 🤖 Estudando **Inteligência Artificial Generativa**
-- 💡 Apaixonado por tecnologia e inovação
-- 🚀 Sempre em busca de novos desafios e aprendizados
-- 🤝 Comunicativo, dedicado e com ótima capacidade de resolução de problemas
+- 💡 Apaixonado por tecnologia e inovação.
+- 🚀 Sempre em busca de novos desafios e aprendizados.
+- 🤝 Comunicativo, dedicado,  e muito bom em realizar trabalhos em grupo.
 
 ---
 
