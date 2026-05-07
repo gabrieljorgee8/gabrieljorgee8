@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Gabriel+Augusto+Jorge!+👋;Engenharia+de+Software+🎓;Python+%7C+IA+Generativa+🤖" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Gabriel+Augusto+Jorge!+👋;Engenharia+de+Software+🎓;Python+%7C+IA+Generativa+🤖" alt="Typing SVG"/>
 </div>
 
 ---
