@@ -7,7 +7,7 @@
 ## 🙋‍♂️ Sobre mim
 
 - 🎓 Cursando **Engenharia de Software**
-- 🐍 Trabalho atualmente com **Python**
+- 🐍 Trabalho atualmente com **Python e Banco de dados MySQL**
 - 🤖 Estudando **Inteligência Artificial Generativa**
 - 💡 Apaixonado por tecnologia e inovação
 - 🚀 Sempre em busca de novos desafios e aprendizados
