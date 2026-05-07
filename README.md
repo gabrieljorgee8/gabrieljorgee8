@@ -92,7 +92,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🩺 Classificador de Pressão Fictício</h3>
-      <p>Sistema classificador de pressão arterial fictícia desenvolvido para a faculdade, utilizando lógica de classificação em Python.</p>
+      <p>Sistema classificador de pressão fictícia desenvolvido para a faculdade, utilizando lógica de classificação em Python.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
       </p>
