@@ -91,7 +91,7 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🩺 Classificador de Pressão Fictício</h3>
+      <h3>🔧 Classificador de Pressão Fictício</h3>
       <p>Sistema classificador de pressão fictícia desenvolvido para a faculdade, utilizando lógica de classificação em Python.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -99,6 +99,20 @@
       <a href="https://github.com/gbnvaes/Atividade_Avaliativa1_SEUC-4">
         <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚚 FluxoNorte - Sistema de Logística</h3>
+      <p>Protótipo operacional desenvolvido para a faculdade, com controle de entregas, entregadores e rotas de uma empresa de logística urbana.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      </p>
+      <a href="https://github.com/gbnvaes/Atividade_Avaliativa2_FluxoNorte">
+        <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
